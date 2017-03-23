@@ -59,13 +59,6 @@ public class DLL<E> //Doubly Linked List
         }
         size++;
     }
-     
-     /**
-      * Need to Sort
-      */
-     
-     
-     
     /**
      * method to iterate forward
      */
@@ -139,8 +132,6 @@ public class DLL<E> //Doubly Linked List
         stringList.add("Grace");
         stringList.add("Mikayla");
         stringList.add("Shannon");
-        
-        java.util.Collections.sort(stringList, Collator.getInstance());
         
         stringList.iterateForward();
         stringList.iterateBackward();
