@@ -1,5 +1,8 @@
 import java.util.NoSuchElementException;
+<<<<<<< HEAD
+=======
 import java.util.Collections;
+>>>>>>> origin/master
  
 public class DLL<E> //Doubly Linked List
 {
@@ -137,4 +140,8 @@ public class DLL<E> //Doubly Linked List
         stringList.iterateBackward();
     }
 }
+<<<<<<< HEAD
     
+=======
+    
+>>>>>>> origin/master
